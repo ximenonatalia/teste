@@ -1,0 +1,2270 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+        @font-face {
+          font-family: stilu_bold;
+          src: url(assets/Stilu-Bold.otf);
+        }
+        
+        @font-face {
+          font-family: stilu_regular;
+          src: url(assets/Stilu-Regular.otf);
+        }
+        
+        @font-face {
+          font-family: lato_bold;
+          src: url(assets/Stilu-Bold.otf);
+        }
+        
+
+      .home {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -960px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: 1920.00px;
+    height: 6447.00px;
+    left: 50%;
+    top: 0px;
+
+}
+
+.home .header {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .header .heroHeader {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/heroHeader.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 0.5099999904632568;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .header .nataliaXimeno {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 494.00px;
+    height: 75.00px;
+    left: 713.00px;
+    top: 499.00px;
+
+}
+
+.home .header .psicologaClinicaCrp0740714 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 3.20px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 16.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 368.00px;
+    height: 20.00px;
+    left: 776.00px;
+    top: 609.00px;
+
+}
+
+.home .grupo28 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 4300.00px;
+
+}
+
+.home .grupo28 .section01ce734362 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo28 .section01ce734362 .retangulo26edca197 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(219, 177, 116, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo28 .section01ce734362 .sobreMim {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 336.00px;
+    height: 75.00px;
+    left: 150.00px;
+    top: 396.00px;
+
+}
+
+.home .grupo28 .section01ce734362 .souPsicologaFormadaPelaUniversidadeFederalDeCienciasDaSaudeDePortoAlegreUfcspaAtualmenteEstouRealizandoAMinhaEspecializacaoEmTerapiaCognitivoComportamentalNaPontificiaUniversidadeCatolicaDoRioGrandeDoSulPucRsFacoPa {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 22.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 631.00px;
+    height: 196.00px;
+    left: 150.00px;
+    top: 482.00px;
+
+}
+
+.home .grupo28 .section01ce734362 .nati143 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/nati143.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 960.00px;
+    height: 817.00px;
+    left: 960.00px;
+    top: 259.00px;
+
+}
+
+.home .navbar {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 116.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .caminho1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.15595200657844543;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 116.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 672.00px;
+    height: 51.00px;
+    left: 624.00px;
+    top: 33.00px;
+
+}
+
+.home .navbar .grupo4 .horNav593b945c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 164.00px;
+    height: 50.00px;
+    left: 142.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNav593b945c .retangulo74742a21e {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(18, 86, 108, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 164.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNav593b945c .trabalho {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 3.20px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: unset;
+      font-size: 16.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: lato_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 108.00px;
+    height: 19.00px;
+    left: 28.00px;
+    top: 16.00px;
+
+}
+
+.home .navbar .grupo4 .horNav68a51a2d {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 170.00px;
+    height: 51.00px;
+    left: 328.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNav68a51a2d .retangulo7eabfa745 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(18, 86, 108, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 170.00px;
+    height: 51.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNav68a51a2d .instagram {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 3.20px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: unset;
+      font-size: 16.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 114.00px;
+    height: 20.00px;
+    left: 28.00px;
+    top: 16.00px;
+
+}
+
+.home .navbar .grupo4 .horNavb4e31dba {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 152.00px;
+    height: 50.00px;
+    left: 520.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNavb4e31dba .retangulo73f77795a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(18, 86, 108, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 152.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNavb4e31dba .contato {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 3.20px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: unset;
+      font-size: 16.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: lato_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 96.00px;
+    height: 19.00px;
+    left: 28.00px;
+    top: 16.00px;
+
+}
+
+.home .navbar .grupo4 .horNav {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 120.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 1.00px;
+
+}
+
+.home .navbar .grupo4 .horNav .retangulo7 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(18, 86, 108, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 120.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .navbar .grupo4 .horNav .sobre {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 3.20px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: unset;
+      font-size: 16.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: lato_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 64.00px;
+    height: 19.00px;
+    left: 28.00px;
+    top: 16.00px;
+
+}
+
+.home .m6 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/m6.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1280.00px;
+    left: 0.00px;
+    top: 1983.50px;
+
+}
+
+.home .grupo30 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 1076.00px;
+
+}
+
+.home .grupo30 .grupo25 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo30 .grupo25 .retangulo6 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(239, 237, 237, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo30 .grupo25 .promovendoUmaVidamaisSaudavelAtravesdaSaudeMental {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+      letter-spacing: 0.00px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 711.00px;
+    height: 225.00px;
+    left: 1059.00px;
+    top: 381.00px;
+
+}
+
+.home .grupo30 .grupo25 .aquiVoceVaiEncontrarAmparoEmocionalParaEnfrentarAVidaComMaisLeveza {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 631.00px;
+    height: 79.00px;
+    left: 1139.00px;
+    top: 620.00px;
+
+}
+
+.home .grupo30 .grupo25 .nati158 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/nati158.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 960.00px;
+    height: 768.14px;
+    left: 0.00px;
+    top: 307.86px;
+
+}
+
+.home .grupo30 .componente171 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 460.00px;
+    height: 57.00px;
+    left: 1307.00px;
+    top: 710.00px;
+
+}
+
+.home .grupo30 .componente171 .componente151c7a32e08 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 460.00px;
+    height: 57.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo30 .componente171 .componente151c7a32e08 .retangulo2248884809 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(219, 177, 116, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 2.00px;
+      border-left-color: rgba(219, 177, 116, 1);
+      border-left-style: solid;
+      border-left-width: 2.00px;
+      border-right-color: rgba(219, 177, 116, 1);
+      border-right-style: solid;
+      border-right-width: 2.00px;
+      border-top-color: rgba(219, 177, 116, 1);
+      border-top-style: solid;
+      border-top-width: 2.00px;
+      border-top-left-radius: 29.00px;
+      border-top-right-radius: 29.00px;
+      border-bottom-left-radius: 29.00px;
+      border-bottom-right-radius: 29.00px;
+      box-shadow: none;
+      width: 460.00px;
+    height: 57.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo30 .componente171 .componente161ea7b9163 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 409.00px;
+    height: 38.00px;
+    left: 26.00px;
+    top: 10.00px;
+
+}
+
+.home .grupo30 .componente171 .componente161ea7b9163 .agendarAtendimento {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(219, 177, 116, 1);
+      -webkit-text-stroke: unset;
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 409.00px;
+    height: 38.00px;
+    left: 0.00px;
+    top: 3.00px;
+
+}
+
+.home .grupo27 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1075.00px;
+    left: 0.00px;
+    top: 3225.00px;
+
+}
+
+.home .grupo27 .caminho10 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(24, 30, 42, 1);
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1075.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo27 .comoFunciona {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 515.00px;
+    height: 75.00px;
+    left: 150.00px;
+    top: 150.00px;
+
+}
+
+.home .grupo27 .atravesDaAbordagemCognitivoComportamentalVoceIraExplorarAsSituacoesCotidianasPercebendoSuasSensacoesPensamentosEEmocoesComAIntencaoDeTransformarSeusPadroesDeComportamentoPermitindoQueVoceTenhaUmaVidaMaisEquilibrada {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 30.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 810.00px;
+    height: 166.00px;
+    left: 150.00px;
+    top: 241.00px;
+
+}
+
+.home .grupo27 .vocePodeRealizarAsSuasSessoesDeQualquerLugarNoMundoComApenasUmFoneEConexaoComAInternetOuCasoVocePrefiraPodemosMarcarUmHorarioPresencialmenteNaCidadeDePortoAlegre {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 30.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 807.00px;
+    height: 134.00px;
+    left: 960.00px;
+    top: 794.00px;
+
+}
+
+.home .grupo27 .oQueEuPreciso {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+      letter-spacing: 0.00px;
+      color: rgba(239, 237, 237, 1);
+      -webkit-text-stroke: unset;
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 565.00px;
+    height: 75.00px;
+    left: 960.00px;
+    top: 703.00px;
+
+}
+
+.home .grupo29 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 5376.00px;
+
+}
+
+.home .grupo29 .section01 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo29 .section01 .retangulo2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(239, 237, 237, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1076.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .grupo29 .xNataliaXimeno2024 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(219, 177, 116, 1);
+      -webkit-text-stroke: unset;
+      font-size: 22.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: stilu_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 253.00px;
+    height: 28.00px;
+    left: 834.00px;
+    top: 914.00px;
+
+}
+
+.home .letsGo {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 60.00px;
+    height: 60.00px;
+    left: 1785.00px;
+    top: 946.00px;
+
+}
+
+.home .letsGo .elipse5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(18, 86, 108, 1);
+      -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+      width: 60.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .letsGo .grupo6 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 14.52px;
+    height: 19.06px;
+    left: 23.00px;
+    top: 20.94px;
+
+}
+
+.home .letsGo .grupo6 .caminho2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(255, 255, 255, 1);
+          stroke-width: 2.00px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 4.00px;
+    height: 22.50px;
+    left: 5.50px;
+    top: -1.44px;
+
+}
+
+.home .letsGo .grupo6 .grupo5 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 14.52px;
+    height: 6.77px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .letsGo .grupo6 .grupo5 .caminho3 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(-47.00deg);
+    -webkit-transform: rotate(-47.00deg);
+    transform: rotate(-47.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(255, 255, 255, 1);
+          stroke-width: 2.00px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 4.54px;
+    height: 13.34px;
+    left: 8.65px;
+    top: -3.29px;
+
+}
+
+.home .letsGo .grupo6 .grupo5 .caminho4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(227.00deg);
+    -webkit-transform: rotate(227.00deg);
+    transform: rotate(227.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(255, 255, 255, 1);
+          stroke-width: 2.00px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 4.54px;
+    height: 13.34px;
+    left: 1.33px;
+    top: -3.29px;
+
+}
+
+.home .aindaFicouComDuvidas {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(219, 177, 116, 1);
+      -webkit-text-stroke: unset;
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 808.00px;
+    height: 75.00px;
+    left: 556.00px;
+    top: 5877.00px;
+
+}
+
+.home .componente172 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 386.00px;
+    height: 57.00px;
+    left: 768.00px;
+    top: 5965.00px;
+
+}
+
+.home .componente172 .componente151 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 386.00px;
+    height: 57.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .componente172 .componente151 .retangulo22 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(18, 86, 108, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 2.00px;
+      border-left-color: rgba(18, 86, 108, 1);
+      border-left-style: solid;
+      border-left-width: 2.00px;
+      border-right-color: rgba(18, 86, 108, 1);
+      border-right-style: solid;
+      border-right-width: 2.00px;
+      border-top-color: rgba(18, 86, 108, 1);
+      border-top-style: solid;
+      border-top-width: 2.00px;
+      border-top-left-radius: 29.00px;
+      border-top-right-radius: 29.00px;
+      border-bottom-left-radius: 29.00px;
+      border-bottom-right-radius: 29.00px;
+      box-shadow: none;
+      width: 386.00px;
+    height: 57.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.home .componente172 .componente161 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 332.00px;
+    height: 38.00px;
+    left: 26.00px;
+    top: 10.00px;
+
+}
+
+.home .componente172 .componente161 .vamosConversar {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(18, 86, 108, 1);
+      -webkit-text-stroke: unset;
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: stilu_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 332.00px;
+    height: 38.00px;
+    left: 0.00px;
+    top: 3.00px;
+
+}
+
